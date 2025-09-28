@@ -1,0 +1,29 @@
+# My Work Log
+
+## September 2025
+
+### 📌 What I Worked On
+- Set up and learned the basics of Git and GitHub.
+- Created my first Python script (`basic_operations.py`).
+- Completed the following Python Introduction tasks:
+  - ✅ Simple Interest Calculator (`simple_interest.py`)
+  - ✅ Rectangle Area Calculator (`rectangle_area.py`)
+  - ✅ Convert Hours to Seconds (`hours_to_seconds.py`)
+  - ✅ User Input Age Calculator (`future_age_calculator.py`)
+  - ✅ Personal Finance Calculator (`finance_calculator.py`)
+
+### 🏆 Achievements
+- Successfully committed and pushed code to GitHub for the first time.
+- Passed ALX project checks for Python basics.
+- Fixed errors by carefully following instructions and running tests before committing.
+- Learned how to structure tasks step by step and keep code clean.
+
+### 🔥 Failures & Learnings
+- Faced checker errors (e.g., in the `finance_calculator.py`) but resolved them by carefully re-reading instructions.
+- Learned that **small details in assignment statements matter** to pass ALX checks.
+- Practiced patience and persistence when debugging and retrying.
+
+### 🌟 Highlights
+- Wrote my first Python scripts that worked as expected.
+- Built confidence with Git workflow (`git add`, `commit`, `push`, `log`).
+- Realized the importance of keeping a clear record of progress (this brag list 🎉).
